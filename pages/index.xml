@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Long Wang </title>
+      <title>Pages on Long Wang </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://wanglong06.github.io/</link>
+    <link>http://wanglong06.github.io/pages/</link>
     <language>en-us</language>
     
     
-    <updated>Fri, 10 Jun 2016 00:21:13 EDT</updated>
-    
-    <item>
-      <title>About me</title>
-      <link>http://wanglong06.github.io/post/welcome/</link>
-      <pubDate>Fri, 10 Jun 2016 00:21:13 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;My name is &lt;strong&gt;Long Wang&lt;/strong&gt;, I am a PHD student in Dept. Mechanical Engineering, Vanderbilt University. I am working with Advanced Robotics and Mechanism Applications Research Laboratory (&lt;a href=&#34;http://arma.vuse.vanderbilt.edu&#34;&gt;ARMA Lab&lt;/a&gt;).
-My research interests include continuum robots and their medical applications, modeling and calibration of robots and force controlled exploration using robots.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wanglong06.github.io/about_me.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Me and Robots</title>
-      <link>http://wanglong06.github.io/post/me_and_robot/</link>
-      <pubDate>Thu, 09 Jun 2016 03:23:52 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/me_and_robot/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;robotic-hand:07c6e1af87c0aefdff0df617de904704&#34;&gt;Robotic Hand&lt;/h2&gt;
-
-&lt;p&gt;I started my robitics journey from junior year when I was in Tsinghua University, Beijing.
-One day I saw this cool robotic hand project in Dr. Wenzeng Zhang&amp;rsquo;s lab and asked him if I could work with him.
-He said yes, and then for the next two years, I worked with him and learned a lot from him.&lt;/p&gt;
-
-&lt;p&gt;After undergraduate, I decided to continue to graduate study. I had the honor to work with Dr. Peter Allen in his Robotics Lab at Columbia University.
-I spent almost two years there and it was exciting and very fun because we got to build a robotics hand from scratch.
-&lt;img src=&#34;http://wanglong06.github.io/columbia_hand.jpg&#34; alt=&#34;Columbia Hand&#34; /&gt;
-&lt;a href=&#34;https://youtu.be/uBmQz1yC5rs&#34; title=&#34;Video Title&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/uBmQz1yC5rs/0.jpg&#34; alt=&#34;IMAGE ALT TEXT&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;snake-like-robots-continuum-robots:07c6e1af87c0aefdff0df617de904704&#34;&gt;Snake-like Robots (Continuum Robots)&lt;/h2&gt;
-</description>
-    </item>
+    <updated>Wed, 08 Jun 2016 02:17:49 EDT</updated>
     
     <item>
       <title>cv</title>
@@ -126,34 +84,6 @@ I spent almost two years there and it was exciting and very fun because we got t
 &lt;li&gt;Tsinghua University outstanding student leaders (2006).&lt;/li&gt;
 &lt;li&gt;Tsinghua University Arts scholarship (2008).&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Me and Photography</title>
-      <link>http://wanglong06.github.io/post/me_and_photography/</link>
-      <pubDate>Tue, 07 Jun 2016 03:44:33 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/me_and_photography/</guid>
-      <description>&lt;p&gt;This is new for me but I enjoy learning and exploring.
-It is fun to capture beautiful scenery and landscape from different places when traveling.
-But I like it more to capture people, to seize the interesting moments in life.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Me and Trumpet</title>
-      <link>http://wanglong06.github.io/post/me_and_trumpet/</link>
-      <pubDate>Mon, 06 Jun 2016 03:38:19 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/me_and_trumpet/</guid>
-      <description>&lt;p&gt;I love listening to trumpet pieces and playing myself.&lt;/p&gt;
-
-&lt;p&gt;I started to play trumpet when I was young but unfortunately never able to play so well. I was playing in middle school, high school and colledge and now I am playing in community concert band.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wanglong06.github.io/long_wang_2013a.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

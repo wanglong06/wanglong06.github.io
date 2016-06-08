@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Long Wang </title>
+      <title>Development on Long Wang </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://wanglong06.github.io/</link>
+    <link>http://wanglong06.github.io/categories/development/</link>
     <language>en-us</language>
     
     
-    <updated>Fri, 10 Jun 2016 00:21:13 EDT</updated>
-    
-    <item>
-      <title>About me</title>
-      <link>http://wanglong06.github.io/post/welcome/</link>
-      <pubDate>Fri, 10 Jun 2016 00:21:13 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;My name is &lt;strong&gt;Long Wang&lt;/strong&gt;, I am a PHD student in Dept. Mechanical Engineering, Vanderbilt University. I am working with Advanced Robotics and Mechanism Applications Research Laboratory (&lt;a href=&#34;http://arma.vuse.vanderbilt.edu&#34;&gt;ARMA Lab&lt;/a&gt;).
-My research interests include continuum robots and their medical applications, modeling and calibration of robots and force controlled exploration using robots.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wanglong06.github.io/about_me.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
+    <updated>Thu, 09 Jun 2016 03:23:52 EDT</updated>
     
     <item>
       <title>Me and Robots</title>
