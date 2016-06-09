@@ -3,18 +3,8 @@
   
   <url>
     <loc>http://wanglong06.github.io/</loc>
-    <lastmod>2016-06-10T00:21:13-04:00</lastmod>
+    <lastmod>2016-06-08T02:17:49-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wanglong06.github.io/post/welcome/</loc>
-    <lastmod>2016-06-10T00:21:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://wanglong06.github.io/post/me_and_robot/</loc>
-    <lastmod>2016-06-09T03:23:52-04:00</lastmod>
   </url>
   
   <url>
@@ -23,13 +13,33 @@
   </url>
   
   <url>
-    <loc>http://wanglong06.github.io/post/me_and_photography/</loc>
-    <lastmod>2016-06-07T03:44:33-04:00</lastmod>
+    <loc>http://wanglong06.github.io/post/welcome/</loc>
+    <lastmod>2016-06-10T00:21:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanglong06.github.io/post/robotic_hand_project/</loc>
+    <lastmod>2016-06-09T03:23:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanglong06.github.io/post/force_control/</loc>
+    <lastmod>2016-06-08T23:42:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanglong06.github.io/post/continuum_robots_surgical/</loc>
+    <lastmod>2016-06-08T23:31:33-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://wanglong06.github.io/post/me_and_trumpet/</loc>
     <lastmod>2016-06-06T03:38:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wanglong06.github.io/post/me_and_photography/</loc>
+    <lastmod>2016-06-07T03:44:33-04:00</lastmod>
   </url>
   
 </urlset>

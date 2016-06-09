@@ -6,35 +6,8 @@
     <link>http://wanglong06.github.io/tags/development/</link>
     <language>en-us</language>
     
-    
-    <updated>Thu, 09 Jun 2016 03:23:52 EDT</updated>
-    
-    <item>
-      <title>Me and Robots</title>
-      <link>http://wanglong06.github.io/post/me_and_robot/</link>
-      <pubDate>Thu, 09 Jun 2016 03:23:52 EDT</pubDate>
-      
-      <guid>http://wanglong06.github.io/post/me_and_robot/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;robotic-hand:07c6e1af87c0aefdff0df617de904704&#34;&gt;Robotic Hand&lt;/h2&gt;
-
-&lt;p&gt;I started my robitics journey from junior year when I was in Tsinghua University, Beijing.
-One day I saw this cool robotic hand project in Dr. Wenzeng Zhang&amp;rsquo;s lab and asked him if I could work with him.
-He said yes, and then for the next two years, I worked with him and learned a lot from him.&lt;/p&gt;
-
-&lt;p&gt;After undergraduate, I decided to continue to graduate study. I had the honor to work with Dr. Peter Allen in his Robotics Lab at Columbia University.
-I spent almost two years there and it was exciting and very fun because we got to build a robotics hand from scratch.
-&lt;img src=&#34;http://wanglong06.github.io/columbia_hand.jpg&#34; alt=&#34;Columbia Hand&#34; /&gt;
-&lt;a href=&#34;https://youtu.be/uBmQz1yC5rs&#34; title=&#34;Video Title&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/uBmQz1yC5rs/0.jpg&#34; alt=&#34;IMAGE ALT TEXT&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;snake-like-robots-continuum-robots:07c6e1af87c0aefdff0df617de904704&#34;&gt;Snake-like Robots (Continuum Robots)&lt;/h2&gt;
-</description>
-    </item>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <updated>Wed, 08 Jun 2016 02:17:49 EDT</updated>
     
     <item>
       <title>cv</title>
@@ -115,14 +88,48 @@ I spent almost two years there and it was exciting and very fun because we got t
     </item>
     
     <item>
-      <title>Me and Photography</title>
-      <link>http://wanglong06.github.io/post/me_and_photography/</link>
-      <pubDate>Tue, 07 Jun 2016 03:44:33 EDT</pubDate>
+      <title>Robotic Hand Project</title>
+      <link>http://wanglong06.github.io/post/robotic_hand_project/</link>
+      <pubDate>Thu, 09 Jun 2016 03:23:52 EDT</pubDate>
       
-      <guid>http://wanglong06.github.io/post/me_and_photography/</guid>
-      <description>&lt;p&gt;This is new for me but I enjoy learning and exploring.
-It is fun to capture beautiful scenery and landscape from different places when traveling.
-But I like it more to capture people, to seize the interesting moments in life.&lt;/p&gt;
+      <guid>http://wanglong06.github.io/post/robotic_hand_project/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Robotic hand projects led my way to this field. They were my initial interests and I am still interested.&lt;/p&gt;
+
+&lt;p&gt;I started my robitics journey from junior year when I was in Tsinghua University, Beijing.
+One day I saw this cool robotic hand project in Dr. Wenzeng Zhang&amp;rsquo;s lab and asked him if I could work with him.
+He said yes, and then for the next two years, I worked with him and learned a lot from him.&lt;/p&gt;
+
+&lt;p&gt;After undergraduate, I decided to continue to graduate study. I had the honor to work with Dr. Peter Allen in his Robotics Lab at Columbia University.
+I spent almost two years there and it was exciting and very fun because we got to build a robotics hand from scratch.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wanglong06.github.io/columbia_hand.jpg&#34; alt=&#34;Columbia Hand&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/uBmQz1yC5rs&#34; title=&#34;Video Title&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/uBmQz1yC5rs/0.jpg&#34; alt=&#34;IMAGE ALT TEXT&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Force-controlled Exploration and Telemanipulation</title>
+      <link>http://wanglong06.github.io/post/force_control/</link>
+      <pubDate>Wed, 08 Jun 2016 23:42:04 EDT</pubDate>
+      
+      <guid>http://wanglong06.github.io/post/force_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuum Robots used in Surgical Applications </title>
+      <link>http://wanglong06.github.io/post/continuum_robots_surgical/</link>
+      <pubDate>Wed, 08 Jun 2016 23:31:33 EDT</pubDate>
+      
+      <guid>http://wanglong06.github.io/post/continuum_robots_surgical/</guid>
+      <description>&lt;p&gt;Continuum robots are sometimes also called snake-like robots. This topic becomes my main research interest for the past few years.&lt;/p&gt;
 </description>
     </item>
     
@@ -139,6 +146,18 @@ But I like it more to capture people, to seize the interesting moments in life.&
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://wanglong06.github.io/long_wang_2013a.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Me and Photography</title>
+      <link>http://wanglong06.github.io/post/me_and_photography/</link>
+      <pubDate>Tue, 07 Jun 2016 03:44:33 EDT</pubDate>
+      
+      <guid>http://wanglong06.github.io/post/me_and_photography/</guid>
+      <description>&lt;p&gt;This is new for me but I enjoy learning and exploring.
+It is fun to capture beautiful scenery and landscape from different places when traveling.
+But I like it more to capture people, to seize the interesting moments in life.&lt;/p&gt;
 </description>
     </item>
     
